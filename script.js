@@ -1,0 +1,1 @@
+// In script.js, reorder the code snippets in https://learn.sait.ca/d2l/le/content/688713/viewContent/16706483/View to get the page working like in video example in video-solution.mov file in this repo.
