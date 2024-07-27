@@ -53,7 +53,6 @@ async function fetchPokemonCategories() {
   // previous
   // results
   // and we need to return results object
-  console.log(data.results);
   return data.results;
 }
 
